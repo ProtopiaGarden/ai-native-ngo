@@ -14,9 +14,9 @@ Public entry point to the AI-native NGO concept, white paper, translations, PDFs
 - **Russian translation:** [white-paper/CONCEPT-RU.md](white-paper/CONCEPT-RU.md)
 - **Ukrainian translation:** [white-paper/CONCEPT-UA.md](white-paper/CONCEPT-UA.md)
 - **PDF downloads:**
-  - [English](white-paper/docs/AI-Native-NGO-concept-EN.pdf)
-  - [Russian](white-paper/docs/AI-Native-NGO-concept-RU.pdf)
-  - [Ukrainian](white-paper/docs/AI-Native-NGO-concept-UA.pdf)
+  - [English](https://www.protopia.garden/wp-content/uploads/2026/04/AI-Native-NGO-concept-EN.pdf)
+  - [Russian](https://www.protopia.garden/wp-content/uploads/2026/04/AI-Native-NGO-concept-RU.pdf)
+  - [Ukrainian](https://www.protopia.garden/wp-content/uploads/2026/04/AI-Native-NGO-concept-UA.pdf)
 
 ---
 
@@ -33,10 +33,9 @@ ai-native-ngo/
     ├── README.md           ← full English white paper (source of truth)
     ├── CONCEPT-RU.md       ← Russian translation
     ├── CONCEPT-UA.md       ← Ukrainian translation
-    └── docs/
-        ├── AI-Native-NGO-concept-EN.pdf
-        ├── AI-Native-NGO-concept-RU.pdf
-        └── AI-Native-NGO-concept-UA.pdf
+    ├── AI Native NGO concept _EN.pdf
+    ├── AI Native NGO concept _RU.pdf
+    └── AI Native NGO concept _UA.pdf
 ```
 
 Future sections will be added as the project opens more of its infrastructure:
