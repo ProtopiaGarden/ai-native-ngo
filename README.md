@@ -1,12 +1,12 @@
 # AI-Native Organization of a New Type
-### Public Concept / White Paper ‚Äî Protopia Garden
+### Public Concept / White Paper — Protopia Garden
 
 **Version:** v2, April 2026  
 **Authors:** Alexey Konstantinov, Tetiana Honcharenko  
 **Website:** https://www.protopia.garden  
 **Download PDF:** [EN](https://www.protopia.garden/wp-content/uploads/2026/04/AI-Native-NGO-concept-EN.pdf) | [RU](https://www.protopia.garden/wp-content/uploads/2026/04/AI-Native-NGO-concept-RU.pdf) | [UA](https://www.protopia.garden/wp-content/uploads/2026/04/AI-Native-NGO-concept-UA.pdf)
 
-**Translations:** [–†—É—Å—Å–∫–∏–π](white-paper/CONCEPT-RU.md) | [–£–∫—Ä–∞—ó–Ω—Å—å–∫–∞](white-paper/CONCEPT-UA.md)
+**Translations:** [Русский](white-paper/CONCEPT-RU.md) | [Українська](white-paper/CONCEPT-UA.md)
 
 ---
 
