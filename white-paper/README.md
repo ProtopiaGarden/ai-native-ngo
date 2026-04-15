@@ -6,7 +6,7 @@
 **Authors:** Alexey Konstantinov, Tetiana Honcharenko
 **Website:** https://www.protopia.garden
 **Full HTML reading copy:** https://www.protopia.garden/ai-native-ngo-concept/
-**Download PDF (local copies):** [EN](docs/AI-Native-NGO-concept-EN.pdf) | [RU](docs/AI-Native-NGO-concept-RU.pdf) | [UA](docs/AI-Native-NGO-concept-UA.pdf)
+**Download PDF (local copies):** [EN](AI%20Native%20NGO%20concept%20_EN.pdf) | [RU](AI%20Native%20NGO%20concept%20_RU.pdf) | [UA](AI%20Native%20NGO%20concept%20_UA.pdf)
 **Download PDF (from website):** [EN](https://www.protopia.garden/wp-content/uploads/2026/04/AI-Native-NGO-concept-EN.pdf) | [RU](https://www.protopia.garden/wp-content/uploads/2026/04/AI-Native-NGO-concept-RU.pdf) | [UA](https://www.protopia.garden/wp-content/uploads/2026/04/AI-Native-NGO-concept-UA.pdf)
 
 **Translations:** [Русский](CONCEPT-RU.md) | [Українська](CONCEPT-UA.md)
