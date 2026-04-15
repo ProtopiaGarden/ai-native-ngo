@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+title: "AI-Native Organization of a New Type. Public Concept / White Paper"
+abstract: >
+  A concept of a new type of cognitively augmented social institution
+  in which humans and agent systems work as a unified cognitive system.
+  The document describes an organizational form proportionate to the
+  complexity of contemporary social problems, covering humanitarian
+  technologies, social innovations, institutional architecture, and
+  long-horizon infrastructure for social transformation.
+authors:
+  - family-names: "Konstantinov"
+    given-names: "Alexey"
+  - family-names: "Honcharenko"
+    given-names: "Tetiana"
+version: "v2"
+date-released: "2026-04-14"
+url: "https://www.protopia.garden/ai-native-ngo-concept/"
+repository-code: "https://github.com/ProtopiaGarden/ai-native-ngo"
+license: "CC-BY-4.0"
+type: generic
+keywords:
+  - ai-native
+  - ngo
+  - civil-society
+  - organizational-design
+  - agent-systems
+  - social-innovation
+  - humanitarian-technology
