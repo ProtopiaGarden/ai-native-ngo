@@ -33,9 +33,10 @@ ai-native-ngo/
     ├── README.md           ← full English white paper (source of truth)
     ├── CONCEPT-RU.md       ← Russian translation
     ├── CONCEPT-UA.md       ← Ukrainian translation
-    ├── AI Native NGO concept _EN.pdf
-    ├── AI Native NGO concept _RU.pdf
-    └── AI Native NGO concept _UA.pdf
+    └── docs/
+        ├── AI-Native-NGO-concept-EN.pdf
+        ├── AI-Native-NGO-concept-RU.pdf
+        └── AI-Native-NGO-concept-UA.pdf
 ```
 
 Future sections will be added as the project opens more of its infrastructure:
