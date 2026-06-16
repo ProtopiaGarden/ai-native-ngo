@@ -18,6 +18,13 @@ Public entry point to the AI-native NGO concept, white paper, translations, PDFs
   - [Russian](https://www.protopia.garden/wp-content/uploads/2026/04/AI-Native-NGO-concept-RU.pdf)
   - [Ukrainian](https://www.protopia.garden/wp-content/uploads/2026/04/AI-Native-NGO-concept-UA.pdf)
 
+### Essays
+
+- **After the Manifesto** — a release note on the part of the thinking architecture we have built so far. Reading order: [Manifesto](https://www.protopia.garden/ai-native-ngo-concept/) → **After the Manifesto** → [Endowment Platform](https://www.protopia.garden/endowment/).
+  - Reading page: https://www.protopia.garden/after-the-manifesto/
+  - Section & source: [essays/after-the-manifesto/](essays/after-the-manifesto/)
+  - PDF: [English](essays/after-the-manifesto/docs/After-the-Manifesto-EN.pdf) · [Russian](essays/after-the-manifesto/docs/After-the-Manifesto-RU.pdf) · [Ukrainian](essays/after-the-manifesto/docs/After-the-Manifesto-UA.pdf)
+
 ---
 
 ## Repository map
@@ -29,14 +36,21 @@ ai-native-ngo/
 ├── LICENSE                 ← MIT, applies to code
 ├── LICENSE-docs.md         ← CC BY 4.0, applies to prose & docs
 ├── CITATION.cff
-└── white-paper/
-    ├── README.md           ← full English white paper (source of truth)
-    ├── CONCEPT-RU.md       ← Russian translation
-    ├── CONCEPT-UA.md       ← Ukrainian translation
-    └── docs/
-        ├── AI-Native-NGO-concept-EN.pdf
-        ├── AI-Native-NGO-concept-RU.pdf
-        └── AI-Native-NGO-concept-UA.pdf
+├── white-paper/
+│   ├── README.md           ← full English white paper (source of truth)
+│   ├── CONCEPT-RU.md       ← Russian translation
+│   ├── CONCEPT-UA.md       ← Ukrainian translation
+│   └── docs/
+│       ├── AI-Native-NGO-concept-EN.pdf
+│       ├── AI-Native-NGO-concept-RU.pdf
+│       └── AI-Native-NGO-concept-UA.pdf
+└── essays/
+    └── after-the-manifesto/
+        ├── README.md        ← essay — canonical English (source of truth)
+        ├── text-ru.md       ← Russian original
+        ├── text-ua.md       ← Ukrainian translation
+        ├── glossary-after-the-manifesto.md
+        └── docs/            ← After-the-Manifesto-{EN,RU,UA}.pdf
 ```
 
 Future sections will be added as the project opens more of its infrastructure:
